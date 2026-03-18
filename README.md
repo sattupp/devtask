@@ -29,6 +29,22 @@ devtask> stats
   ════════════════════════════════════
 ```
 
+Example Images->
+
+<img width="788" height="399" alt="Screenshot 2026-03-19 at 12 50 57 AM" src="https://github.com/user-attachments/assets/e411cfe6-6c65-4120-84f0-5b3f1897ef55" />
+<img width="829" height="390" alt="Screenshot 2026-03-19 at 12 51 10 AM" src="https://github.com/user-attachments/assets/46773c9e-e793-4ce2-9310-9c8348b0fa1b" />
+<img width="782" height="228" alt="Screenshot 2026-03-19 at 12 52 58 AM" src="https://github.com/user-attachments/assets/6b485c32-af67-4256-81bd-da7f9b768660" />
+<img width="757" height="226" alt="Screenshot 2026-03-19 at 12 53 52 AM" src="https://github.com/user-attachments/assets/9b320a53-d492-4321-b1b9-85c1be0b61f4" />
+<img width="791" height="375" alt="Screenshot 2026-03-19 at 12 55 25 AM" src="https://github.com/user-attachments/assets/667e678e-7c4c-49b6-a451-f906d0573e4f" />
+
+completed tasks should appear dimmed with ✔ 
+<img width="727" height="351" alt="Screenshot 2026-03-19 at 12 56 07 AM" src="https://github.com/user-attachments/assets/b9e49bbb-caa1-4ede-861a-3222db0227f8" />
+<img width="394" height="242" alt="Screenshot 2026-03-19 at 12 57 34 AM" src="https://github.com/user-attachments/assets/4821ce6e-eab7-40f0-9380-d956ef46e7e7" />
+<img width="842" height="360" alt="Screenshot 2026-03-19 at 12 57 59 AM" src="https://github.com/user-attachments/assets/dcd7021b-e8f9-468e-81fa-d73ffb831138" />
+<img width="759" height="676" alt="Screenshot 2026-03-19 at 1 01 56 AM" src="https://github.com/user-attachments/assets/941f269e-f9d5-4ddf-b884-70984d494869" />
+<img width="595" height="460" alt="Screenshot 2026-03-19 at 1 03 30 AM" src="https://github.com/user-attachments/assets/120ebcbd-5493-4b28-b828-c52fb0096196" />
+<img width="653" height="654" alt="Screenshot 2026-03-19 at 1 03 14 AM" src="https://github.com/user-attachments/assets/da86bdb1-3d72-4c9e-a68e-743743c317b2" />
+
 ---
 
 ## Table of Contents
